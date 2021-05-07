@@ -1,0 +1,5 @@
+main: com.blah.smithingtable.Main
+name: BoosferPlugin
+description: BoosferPlugin made for Boosfer
+version: 1.0
+api-version: 1.16
